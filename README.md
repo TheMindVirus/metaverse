@@ -21,7 +21,7 @@ The wider meaning of a crossover can vary greatly, but ideally leads to innovati
 combining the strengths (and weaknesses) of the two or more selected universes.
 
 The `search` tools were added and customised initially to check if a logo had already been added or not. \
-There may be other potential uses and optimisations for the search tool. \
+There may be other potential uses and optimisations for the search tool.
 
 The `cross` tool was added to make selecting 2 random logos and combining them together easier to do. \
 It may also have a variety of potential uses and added features that have yet to be written.
