@@ -9,6 +9,11 @@ This specific example contains a limited dataset of over 500 company logos. \
 Not all of the company logos are present in the dataset and those missing can be added. \
 The current dataset is there only to evaluate the usefulness of this crossover generator tool.
 
+If you're struggling to think about all the logos at the same time, don't worry, that's fairly normal. \
+This is the same confusion that shop customers go through when figuring out what to buy next. \
+Having a Metaverse of tools like this may be able to ease the confusion and \
+could also bring about new things that wouldn't normally have been thought about.
+
 ![screenshot2](https://github.com/TheMindVirus/metaverse/blob/main/screenshot2.png)
 
 A crossover in this context is simply 2 randomly selected logos multiplied together. \
@@ -17,8 +22,12 @@ combining the strengths (and weaknesses) of the two or more selected universes.
 
 The `search` tools were added and customised initially to check if a logo had already been added or not. \
 There may be other potential uses and optimisations for the search tool. \
+
 The `cross` tool was added to make selecting 2 random logos and combining them together easier to do. \
 It may also have a variety of potential uses and added features that have yet to be written.
+
+You can add your own custom tools with their own unique names using the included Python script. \
+An example of a tool you may want to add is a "Dots on a Circle" graph representing links between universes.
 
 ## Notes
 
