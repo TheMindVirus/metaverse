@@ -12,14 +12,14 @@ Alternative setups may include a Turing Pi running Wine or a \
 Seeed Studio Odyssey with M.2 RTX Graphics inside an Alienware Alpha \
 running Steam-OS or Arch Linux.
 
-Addresses take the form `application.hostname.domain:10000` \
-or optionally if port 80 is forwarded to port 10000 by your router, \
-just `application.hostname.domain` like a normal website.
-
 Integration with Steam as the Dedicated Server for titles that support it \
 is ideal, but it also requires Steam to support Background Instances. \
 Currently, it requires you to either only run games with built-in multiplayer servers \
 once per account, or to set up several accounts with unnecessary duplicate purchases.
+
+Addresses take the form `application.hostname.domain:10000` \
+or optionally if port 80 is forwarded to port 10000 by your router, \
+just `application.hostname.domain` like a normal website.
 
 Port 80 is reserved for Traditional Web Server use by various applications. \
 It is also restricted from being opened in Unity or Python by Windows Firewall. \
