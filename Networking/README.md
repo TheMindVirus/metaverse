@@ -4,7 +4,7 @@
 
 This package provides HTTP Server functionality for Unity Desktop Applications \
 being deployed as Edge Servers, to be connected to various WebApp and Game Engines \
-forming what can be considered as a local Metaverse.
+forming what can be considered as a Local Area Metaverse.
 
 In the current state, the scripts provided by this package require minimal tweaking. \
 The only tweaking that is required is that it needs to be integrated per game engine. \
