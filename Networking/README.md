@@ -2,9 +2,20 @@
 
 ![screenshot3](https://github.com/TheMindVirus/metaverse/blob/main/Networking/screenshot3.png)
 
+This package provides HTTP Server functionality for Unity Desktop Applications \
+being deployed as Edge Servers, to be connected to various WebApp and Game Engines \
+forming what can be considered as a local Metaverse.
+
 In the current state, the scripts provided by this package require minimal tweaking. \
 The only tweaking that is required is that it needs to be integrated per game engine. \
 By design it is interoperable with any Internet HTTP Server System using TCP/IPv4.
+
+Running Dedicated Game Servers on the Cloud requires Subscriptions \
+and faces problems of User Isolation, Moderation and Tight Security Restrictions. \
+Running the same workload on a modern Mobile Device is entirely possible \
+but faces problems of Power Consumption, Signal Integrity and Privacy. \
+A Desktop PC deployed as an Edge Server provides the right infrastructure \
+for the Networking and Graphics API's that this workload requires.
 
 Cluster PC's running Windows and Unity with Real Time Ray-Traced Graphics \
 are recommended, along with Node-Red and other Web-based Frameworks. \
