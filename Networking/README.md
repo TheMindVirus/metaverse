@@ -41,3 +41,5 @@ just `application.hostname.domain` like a normal website.
 Port 80 is reserved for Traditional Web Server use by various applications. \
 It is also restricted from being opened in Unity or Python by Windows Firewall. \
 Other operating systems may have different routing and permissions issues to be overcome.
+
+![screenshot4](https://github.com/TheMindVirus/metaverse/blob/main/Networking/screenshot4.png)
