@@ -14,11 +14,11 @@ In the current state, the scripts provided by this package require minimal tweak
 The only tweaking that is required is that it needs to be integrated per game engine. \
 By design it is interoperable with any Internet HTTP Server System using TCP/IPv4.
 
-Running Dedicated Game Servers on the Cloud requires Subscriptions \
-and faces problems of User Isolation, Moderation and Tight Security Restrictions. \
-Running the same workload on a modern Mobile Device is entirely possible \
-but faces problems of Power Consumption, Signal Integrity and Privacy. \
-A Desktop PC deployed as an Edge Server provides the right infrastructure \
+* Running Dedicated Game Servers on the Cloud requires Subscriptions \
+and faces problems of User Isolation, Moderation and Tight Security Restrictions.
+* Running the same workload on a modern Mobile Device is entirely possible \
+but faces problems of Power Consumption, Signal Integrity and Privacy.
+* A Desktop PC deployed as an Edge Server provides the right infrastructure \
 for the Networking and Graphics API's that this workload requires.
 
 Cluster PC's running Windows and Unity with Real Time Ray-Traced Graphics \
