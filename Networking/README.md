@@ -2,13 +2,13 @@
 
 ![screenshot3](https://github.com/TheMindVirus/metaverse/blob/main/Networking/screenshot3.png)
 
-### Brief
+## Brief
 
 This package provides HTTP Server functionality for Unity Desktop Applications \
 being deployed as Edge Servers, to be connected to various WebApp and Game Engines \
 forming what can be considered as a Local/Wide Area Metaverse (LAM/WAM).
 
-### Integration
+## Integration
 
 In the current state, the scripts provided by this package require minimal tweaking. \
 The only tweaking that is required is that it needs to be integrated per game engine. \
@@ -27,10 +27,10 @@ Alternative setups may include a Turing Pi running Wine or a \
 Seeed Studio Odyssey with M.2 RTX Graphics inside an Alienware Alpha \
 running Steam-OS or Arch Linux.
 
-### Issues
+## Issues
 
-Integration with Steam as the Dedicated Server for titles that support it \
-is ideal, but it also requires Steam to support Background Instances. \
+Integration with Steam as the Dedicated Server for titles that support it is ideal, \
+but it also requires Steam to support **Background Instances** for Games and Tools. \
 Currently, it requires you to either only run games with built-in multiplayer servers \
 once per account, or to set up several accounts with unnecessary duplicate purchases.
 
